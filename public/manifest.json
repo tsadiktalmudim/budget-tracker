@@ -1,0 +1,17 @@
+{
+  "icons": [
+    {
+      "src": "./img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Budget Tracker",
+  "short_name": "$$ Trax",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An app that allows you to view upcoming food events.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff"
+}
